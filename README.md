@@ -1,8 +1,26 @@
-#bootstrap4blogger
+#Bootstrap4blogger
 =================
 
-Template usando o Twitter Bootstrap para o Blogger.
-Template using Twitter Bootstrap for Blogger.
+Template para o Blogger usando o Twitter Bootstrap.<br>
+Template for Blogger using Twitter Bootstrap.
+
+###How to use
+1. Download bootstrap4blogger.xml
+2. Login to your blogger account
+3. Now select Template option.
+4. Click on backup / restore button and one box will pop up
+5. Now simply browse the bootstrap4blogger.xml and click on upload and ready!
+
+###Como utilizar
+1. Baixe o bootstrap4blogger.xml
+2. Faça login em sua conta do blogger
+3. Agora selecione a opção Modelo.
+4. Clique em Fazer backup / Restaurar e uma pop up irá abrir.
+5. Agora simplesmente escolha o bootstrap4blogger.xml e clique em Fazer upload e pronto!
+
+
+###Screenshots
+![Homepage Bootstrap4blogger](https://raw.github.com/ArthurAssuncao/bootstrap4blogger/master/screenshots/bootstrap4blog.png)
 
 
 ####License:
