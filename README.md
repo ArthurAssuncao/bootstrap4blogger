@@ -4,6 +4,9 @@
 Template para o Blogger usando o Twitter Bootstrap.<br>
 Template for Blogger using Twitter Bootstrap.
 
+See blog in (Veja o blog em):
+http://bootstrap4blog.blogspot.com.br
+
 ###How to use
 1. Download bootstrap4blogger.xml
 2. Login to your blogger account
